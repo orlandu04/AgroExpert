@@ -123,6 +123,10 @@ Institución: Universidad Politécnica de Puebla
 
 Este proyecto fue registrado bajo el número de ID 37695 para su presentación formal.
 
+## 📥 Descarga
+Puedes descargar el APK de la última versión desde aquí:
+[👉 Descargar última versión (APK)](https://github.com/orlandu04/AgroExpert/releases/tag/Descarga)
+
 ## 🚀 Instalación Local
 
 ### Requisitos previos
@@ -134,3 +138,5 @@ Este proyecto fue registrado bajo el número de ID 37695 para su presentación f
 
 ```bash
 git clone [https://github.com/orlandu04/AgroExpert.git]
+
+
