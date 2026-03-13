@@ -4,7 +4,7 @@
 ![Android](https://img.shields.io/badge/Android-SDK-3DDC84?style=for-the-badge&logo=android) 
 ![Firebase](https://img.shields.io/badge/Firebase-Firestore-FFCA28?style=for-the-badge&logo=firebase) 
 ![API](https://img.shields.io/badge/API-Plant.id-blue?style=for-the-badge) 
-![Status](https://img.shields.io/badge/Status-Completado-brightgreen?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Desarrollo-brightgreen?style=for-the-badge)
 
 > **Proyecto de Desarrollo de Software presentado en SOLACYT - INFO MATRIX IBEROAMÉRICA 2026** ---
 
