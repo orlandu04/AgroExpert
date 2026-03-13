@@ -104,11 +104,6 @@
 * [cite_start]Conexión a Internet[cite: 85].
 * Android Studio instalado.
 
-### Clonar el Repositorio
-
-```bash
-git clone [https://github.com/orlandu04/AgroExpert.git](https://github.com/orlandu04/AgroExpert.git)  [cite: 85]
-
 Abre el proyecto en Android Studio.
 
 Conecta tu proyecto a Firebase insertando tu archivo google-services.json en la carpeta app/.
@@ -162,3 +157,8 @@ Asesora: Yesenia Pérez Reyes
 Institución: Universidad Politécnica de Puebla 
 
 Este proyecto fue registrado bajo el número de ID 37695 para su presentación formal.
+
+### Clonar el Repositorio
+
+```bash
+git clone [https://github.com/orlandu04/AgroExpert.git](https://github.com/orlandu04/AgroExpert.git)  [cite: 85]
