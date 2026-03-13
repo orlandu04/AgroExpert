@@ -17,9 +17,8 @@
 5. [Integración con API Plant.id](#-integración-con-api-plantid)
 6. [Resultados e Impacto](#-resultados-e-impacto)
 7. [Instalación Local](#-instalación-local)
-8. [Generación de Reportes (LaTeX)](#-generación-de-reportes-latex)
-9. [Redes Sociales](#-redes-sociales)
-10. [Autores y Reconocimientos](#-autores)
+8. [Redes Sociales](#-redes-sociales)
+9. [Autores y Reconocimientos](#-autores)
 
 ---
 
