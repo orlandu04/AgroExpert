@@ -133,4 +133,4 @@ Este proyecto fue registrado bajo el número de ID 37695 para su presentación f
 ### Clonar el Repositorio e Iniciar
 
 ```bash
-git clone [https://github.com/orlandu04/AgroExpert.git](https://github.com/orlandu04/AgroExpert.git)
+git clone [https://github.com/orlandu04/AgroExpert.git]
